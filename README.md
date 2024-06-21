@@ -1,3 +1,4 @@
+![logo](https://github.com/Hemanth0250/Hemanth0250/blob/main/github%20banner.png.png)
 <h1 align="center">Hi 👋, I'm Hemanth Gowda N</h1>
 <h3 align="center">A passionate AI-ML Enthusiast from India</h3>
 <im align="right"alt="coding" width="400" src="https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/pass/1CFAeP1I6qiU-ZMb-O4xyOA.gif"> 
