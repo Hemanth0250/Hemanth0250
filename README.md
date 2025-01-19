@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **webpage for a company**
 
-- 🌱 I’m currently learning **Jquery,Angular**
+- 🌱 I’m currently learning **Python Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hemanth0250](https://github.com/Hemanth0250)
 
