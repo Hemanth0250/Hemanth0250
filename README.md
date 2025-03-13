@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **anuhemu25@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:AP:ff5c38b8-4936-4f20-a694-575ba10df285](https://acrobat.adobe.com/id/urn:aaid:sc:AP:ff5c38b8-4936-4f20-a694-575ba10df285)
-
+- 📄 Know about my experiences [
+https://www.dropbox.com/scl/fi/wmoza1mjbz3xe7ah6w8ph/Hemanth_gowda_resume1.pdf?rlkey=48bfscpaiztz7owqk5dsylym2&st=amdpu0vq&dl=0]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="(https://www.linkedin.com/in/hemanth-gowda-n-174271233/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemanth gowda.n" height="30" width="40" /></a>
