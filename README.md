@@ -1,7 +1,8 @@
 ![logo](https://github.com/Hemanth0250/Hemanth0250/blob/main/github%20banner.png.png)
 <h1 align="center">Hi 👋, I'm Hemanth Gowda N</h1>
 <h3 align="center">A passionate AI-ML Enthusiast from India</h3>
-<img align="right"alt="coding" width="400" src="[https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/pass/1CFAeP1I6qiU-ZMb-O4xyOA.gif](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)"> 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemanth0250&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth0250" /> </p>
 
